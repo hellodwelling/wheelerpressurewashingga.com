@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://wheelerpressurewashingga.com/sitemap.xml
