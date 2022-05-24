@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/index</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/store</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/reviews</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/gallery-All</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/gallery-Exterior-Cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/gallery-Home-Softwash</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Commercial-Cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Home-Softwash</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Concrete-Cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Deck-&-Patio-Cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Hardscape-Cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Fence-Washing</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://wheelerpressurewashingga.com/service-Gutter-cleaning</loc>
+        <lastmod>2022-05-24</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
